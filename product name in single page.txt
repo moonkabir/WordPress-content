@@ -1,0 +1,6 @@
+<h1 class="product_title_mobile_top">
+    	<?php
+            $product = wc_get_product( get_the_id() );
+            echo $product->get_name();
+        ?>
+</h1>
