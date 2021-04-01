@@ -1,0 +1,3 @@
+single product>product-image.php><a href="#" class="ql_main_images_btn ql_prev">&#60;</a>
+single product page arrow change
+			
